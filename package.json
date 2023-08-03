@@ -1,0 +1,7 @@
+{
+  "name": "com.gamelovers.configsprovider",
+  "displayName": "Configs Provider",
+  "version": "0.1.0",
+  "unity": "2023.1",
+  "description": "This package helps manage the loading, unloading and setup of data configs into different set files (ex: ScriptableObjects)"
+}
