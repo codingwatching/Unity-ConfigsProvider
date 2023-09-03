@@ -1,7 +1,10 @@
 {
   "name": "com.gamelovers.configsprovider",
   "displayName": "Configs Provider",
-  "version": "0.1.0",
+  "author": "Miguel Tomas",
+  "version": "0.1.1",
   "unity": "2023.1",
+  "license": "MIT",
+  "type": "library",
   "description": "This package helps manage the loading, unloading and setup of data configs into different set files (ex: ScriptableObjects)"
 }
