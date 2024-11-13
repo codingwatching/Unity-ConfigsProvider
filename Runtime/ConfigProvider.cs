@@ -67,7 +67,7 @@ namespace GameLovers.ConfigsProvider
 		}
 
 		/// <inheritdoc />
-		public void AddConfigs<T>(Func<T, int> referenceIdResolver, IList<T> configList) where T : struct
+		public void AddConfigs<T>(Func<T, int> referenceIdResolver, IList<T> configList)
 		{
 			var dictionary = new Dictionary<int, T>(configList.Count);
 
